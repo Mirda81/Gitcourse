@@ -1,1 +1,2 @@
-Ja mam psa
+<<<<<<<Head
+Mam psa a kocku
