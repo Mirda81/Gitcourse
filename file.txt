@@ -1,2 +1,5 @@
-<<<<<<<Head
+<<<<<<< HEAD
 Mam psa a kocku
+=======
+Mam psa a kocku
+>>>>>>> parent of 63b8183 (mam kocku)
